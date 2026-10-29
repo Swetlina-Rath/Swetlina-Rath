@@ -1,5 +1,5 @@
 # Hello 👋🏻 I'm Swetlina Rath
-# Web Developer and Data Analyst
+# Web Developer, Data Analyst and Dynatrace Observability Engineer 
 
 # 💫 About Me:
 I'm Swetlina Rath, a computer science student with a strong passion for Data analysis, Data science and Web Development.
